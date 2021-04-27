@@ -1,2 +1,2 @@
 # Parallel-Sort-and-Sudoku
-Implementing Quicksort, Mergesort and Sudoku solving using parallel programming
+Course project of Parallel-and-Distributed-Programming
